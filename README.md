@@ -16,7 +16,7 @@ Extracts biofingerprints - interpupillary distance and colour/chromacity from NA
 
 ## Extracting interpupillary distance and colour/chromacity
 	`python3 main.py -i path-to-image -c class
-Test files: raw_images
+		Test files: raw_images
 Data is appended to distcolour.csv
 
 ## Splitting data into training and test data
