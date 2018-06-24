@@ -7,6 +7,9 @@ Extracts biofingerprints - interpupillary distance and colour/chromacity from NA
 * `pip`
 * `virtualenv`
 
+# Test data
+Available at https://drive.google.com/a/monash.edu/file/d/10Zj7F2bdSeFQc24mjkW6_wsYWde_n0qN/view?usp=sharing
+
 # Usage
 
 1. Setup a virtual environment using the command `virtualenv venv`
