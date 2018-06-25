@@ -10,6 +10,9 @@ OUTPUT: 	KNN map with given k and weights
 			Prediction accuracy of test data
 USAGE: execute from terminal
 			`python3 knn.py`
+
+Modified from scikit-learn.org. Original code available at
+http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html
 ==================================================================
 """
 
