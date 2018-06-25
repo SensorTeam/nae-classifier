@@ -8,7 +8,7 @@ Extracts biofingerprints - interpupillary distance and colour/chromacity from NA
 * `virtualenv`
 
 # Test data
-Available at https://drive.google.com/a/monash.edu/file/d/10Zj7F2bdSeFQc24mjkW6_wsYWde_n0qN/view?usp=sharing
+Available at https://goo.gl/129SML
 
 # Usage
 
