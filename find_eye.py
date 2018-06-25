@@ -6,6 +6,9 @@ LAST MODIFIED: 14-04-18
 Locates potential eyeshine signals from an image
 Finding potential eye signals from a .jpg by finding bright spots 
 in the image. Does not take into account signal duality or orientation.
+
+Modified from PyImageSearch, Rosebreck A. Original code available at
+https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/ 
 ==================================================================
 """
 
